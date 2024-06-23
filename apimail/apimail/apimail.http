@@ -1,0 +1,11 @@
+@apimail_HostAddress = http://localhost:5112
+
+GET {{apimail_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{apimail_HostAddress}}/todos/1
+Accept: application/json
+
+###

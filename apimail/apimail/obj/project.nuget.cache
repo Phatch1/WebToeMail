@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lWyGpSKl2vA33U/AJd9kOS43nKVjjvSE6zzkLoVFjETNhE0BhJGCXOm+bRLEy+1BdLcsaQZWF3uUgVSTu3Nxxg==",
+  "success": true,
+  "projectFilePath": "D:\\Github_Project\\Webmail\\WebToeMail\\apimail\\apimail\\apimail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benzp\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\benzp\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\benzp\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
